@@ -1,0 +1,10 @@
+Add the subject of the mail here.
+
+~~~
+
+This is the plain text component of the email.
+
+~~~
+
+<strong>This is the HTML component of this email</strong>
+<p>This component supports HTML tags and formatting.</p>
